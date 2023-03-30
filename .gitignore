@@ -1,2 +1,2 @@
 *.csv
-iac/
+/home/harpy/Desktop/IGTI_TERRAFORM/iac/.terraform/providers/registry.terraform.io/hashicorp/aws/4.60.0/linux_amd64
